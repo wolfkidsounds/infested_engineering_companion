@@ -2,7 +2,13 @@
   "id_map": {},
   "mod_elements": [],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "a1",
+      "file": "1",
+      "category": "master"
+    }
+  ],
   "language_map": {
     "en_us": {}
   },
